@@ -1,13 +1,33 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=E4E6FF&center=true&vCenter=true&width=750&height=50&lines=ATIQULLAH;Full-Stack+Software+Developer" alt="Atiqullah" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Hi%20%E2%9C%85%20I'm%20Atiqullah&fontAlign=87&fontAlignY=37&fontSize=44&fontColor=e4e6ff&animation=fadeIn"/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=E4E6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Flutter+%26+Dart+Specialist;Building+Real-World+Tools;Open+Source+Contributor;CLI+%26+Automation+Builder" alt="Typing SVG" />
+<div align="center">
 
-[![Visitors](https://komarev.com/ghpvc/?username=CR3-Architect&color=7c3aed&style=for-the-badge)](https://github.com/CR3-Architect)
-[![Followers](https://img.shields.io/github/followers/CR3-Architect?style=for-the-badge&color=6366f1&labelColor=1a1a2e)](https://github.com/CR3-Architect?tab=followers)
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-🔥-ff6b6b?style=for-the-badge)](https://github.com/CR3-Architect)
+[![Portfolio](https://img.shields.io/badge/Portfolio-instinode.io-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://instinode.io)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-22c55e?style=for-the-badge&logo=github&logoColor=white)](mailto:atiqullah61111@gmail.com)
+[![Follow](https://img.shields.io/badge/Follow-CR3--Architect-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CR3-Architect)
+[![Profile Views](https://img.shields.io/badge/Views-🔥-ef4444?style=for-the-badge)](https://github.com/CR3-Architect)
+[![Followers](https://img.shields.io/github/followers/CR3-Architect?style=for-the-badge&color=7c3aed)](https://github.com/CR3-Architect?tab=followers)
 
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Building production-grade software · Flutter · Dart · Python · Open Source
+
+*Crafting multi-platform applications, developer tooling, and automation systems used by real users.*
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?color=0:0f172a,50:1e1b4b,100:312e81&height=6&section=separator" alt="" />
 </div>
 
 ---
@@ -46,10 +66,10 @@ class Atiqullah {
 | **Python** | **C++** |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Git** | **GitHub** |
-| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Lua** | **JavaScript** |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Docker** | **PostgreSQL** |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **JavaScript** | **HTML5** |
 
 </div>
 
@@ -63,7 +83,7 @@ class Atiqullah {
 <td width="50%" valign="top">
 
 ### ⚡ [github-repo-init](https://github.com/CR3-Architect/github-repo-init)
-`Python` · `MIT`
+`Python` · `MIT License`
 
 **One command to create, init, commit & push any project to GitHub.**
 
@@ -88,18 +108,6 @@ Feature-rich calculator with clean Material UI, multi-platform support (Android,
 <tr>
 <td width="50%" valign="top">
 
-### 📜 [lualoader](https://github.com/CR3-Architect/lualoader)
-`Lua`
-
-**Lua script loader & execution toolkit.**
-
-Lightweight loader for managing, injecting and executing Lua scripts — built for flexibility and speed.
-
-`lua` `scripting` `loader` `tools`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌐 [OnlineUpdates](https://github.com/CR3-Architect/OnlineUpdates)
 `Project`
 
@@ -108,6 +116,18 @@ Lightweight loader for managing, injecting and executing Lua scripts — built f
 Infrastructure for delivering over-the-air updates — keep apps and services current without redeploys.
 
 `updates` `ota` `distribution` `infrastructure`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 [More Projects](https://github.com/CR3-Architect?tab=repositories)
+`Open Source`
+
+**Explore the full repository collection.**
+
+Browse all public repositories, contributions, and tools on GitHub.
+
+`explore` `repositories` `open-source`
 
 </td>
 </tr>
