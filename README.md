@@ -2,8 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Hi%20%E2%9C%85%20I'm%20Atiqullah&fontAlign=87&fontAlignY=37&fontSize=44&fontColor=e4e6ff&animation=fadeIn"/>
 
-<!-- typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=E4E6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Flutter+%26+Dart+Specialist;Building+Multi-Tenant+SaaS;School+Management+OS;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=E4E6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Flutter+%26+Dart+Specialist;Building+Real-World+Tools;Open+Source+Contributor;CLI+%26+Automation+Builder" alt="Typing SVG" />
 
 [![Visitors](https://komarev.com/ghpvc/?username=CR3-Architect&color=7c3aed&style=for-the-badge)](https://github.com/CR3-Architect)
 [![Followers](https://img.shields.io/github/followers/CR3-Architect?style=for-the-badge&color=6366f1&labelColor=1a1a2e)](https://github.com/CR3-Architect?tab=followers)
@@ -20,18 +19,18 @@
 ```dart
 class Atiqullah {
   final String role = "Full-Stack Software Developer";
-  final String specialty = "Flutter · Dart · Serverpod · SaaS";
-  final String focus = "Multi-Tenant Systems & School ERP";
-  final List<String> languages = ["Dart", "JavaScript", "SQL", "HTML/CSS"];
-  final bool currentlyBuilding = true; // CentriSchool · InstiNode
-  final String motto = "Ship clean code. Scale with purpose.";
+  final String specialty = "Flutter · Dart · Python · Automation";
+  final String focus = "Developer Tools · Mobile Apps · Open Source";
+  final List<String> languages = ["Dart", "Python", "C++", "JavaScript", "SQL"];
+  final bool currentlyBuilding = true;
+  final String motto = "Ship clean code. Automate everything.";
 }
 ```
 
-🔭 **Currently building** — [CentriSchool](https://github.com/CR3-Architect/CentriSchool) · a multi-tenant SaaS school management platform  
-🌱 **Leveling up** — Serverpod 4 · PostgreSQL · Cloud Architecture  
-💬 **Ask me about** — Flutter web apps, Riverpod, GoRouter, clean architecture  
-⚡ **Fun fact** — I architect systems that serve infinite schools from one codebase
+🔭 **Building** — developer tools, Flutter apps & automation utilities  
+🌱 **Leveling up** — multi-tenant systems, CLI tooling, clean architecture  
+💬 **Ask me about** — Flutter, Dart, Python CLIs, Git automation, app architecture  
+⚡ **Fun fact** — I build tools that make other developers faster
 
 ---
 
@@ -43,17 +42,76 @@ class Atiqullah {
 |:---:|:---:|
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **Flutter** | **Dart** |
-| ![Serverpod](https://img.shields.io/badge/Serverpod-EA2743?style=flat-square&logo=dart&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Serverpod** | **PostgreSQL** |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Docker** | **Git** |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **GitHub** | **Firebase** |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **HTML5** | **CSS3** |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Riverpod](https://img.shields.io/badge/Riverpod-4F46E5?style=flat-square&logo=dart&logoColor=white) |
-| **JavaScript** | **Riverpod** |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Python** | **C++** |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Git** | **GitHub** |
+| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Lua** | **JavaScript** |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Docker** | **PostgreSQL** |
 
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [github-repo-init](https://github.com/CR3-Architect/github-repo-init)
+`Python` · `MIT`
+
+**One command to create, init, commit & push any project to GitHub.**
+
+No `gh` CLI. No dependencies. Just Python. Drop it in any folder and ship to GitHub instantly.
+
+`cli` `automation` `git` `github` `token`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 [CalcPro](https://github.com/CR3-Architect/CalcPro)
+`Flutter` · `Dart`
+
+**Professional calculator app built with Flutter.**
+
+Feature-rich calculator with clean Material UI, multi-platform support (Android, iOS, Web, Desktop), and robust expression evaluation.
+
+`flutter` `calculator` `mobile` `dart` `cross-platform`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📜 [lualoader](https://github.com/CR3-Architect/lualoader)
+`Lua`
+
+**Lua script loader & execution toolkit.**
+
+Lightweight loader for managing, injecting and executing Lua scripts — built for flexibility and speed.
+
+`lua` `scripting` `loader` `tools`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [OnlineUpdates](https://github.com/CR3-Architect/OnlineUpdates)
+`Project`
+
+**Online update distribution system.**
+
+Infrastructure for delivering over-the-air updates — keep apps and services current without redeploys.
+
+`updates` `ota` `distribution` `infrastructure`
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -87,62 +145,17 @@ class Atiqullah {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏫 [CentriSchool](https://github.com/CR3-Architect/CentriSchool)
-**School Management OS**
-> Multi-tenant SaaS platform for modern schools. Flutter web admin shell + Serverpod 4 backend. Students, staff, attendance, fees, exams & more.
-
-`Flutter` `Riverpod` `Serverpod` `PostgreSQL` `Multi-Tenancy`
-
-</td>
-<td width="50%">
-
-### 🔧 More Coming Soon
-**Open Source Pipeline**
-> Currently shipping projects in school ERP, multi-tenant SaaS, and full-stack Flutter architecture.
-
-`Coming Soon` `Stay Tuned`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📈 Profile Metrics
 
 <div align="center">
 
-| Metric | Value |
+| | |
 |:---|:---:|
-| 🔭 Repositories | [![Repos](https://img.shields.io/badge/Repos-CR3--Architect-7c3aed?style=for-the-badge)](https://github.com/CR3-Architect?tab=repositories) |
-| ⭐ Stars Earned | [![Stars](https://img.shields.io/badge/Stars-Support-7c3aed?style=for-the-badge)](https://github.com/CR3-Architect) |
-| 🤝 PRs & Issues | [![Contributions](https://img.shields.io/badge/Contributions-Open-7c3aed?style=for-the-badge)](https://github.com/CR3-Architect) |
-| 🏢 Company | InstiNode |
+| 🔭 Public Repos | [![Repos](https://img.shields.io/badge/Repositories-Explore-critical?style=for-the-badge)](https://github.com/CR3-Architect?tab=repositories) |
+| ⭐ Earned Stars | [![Stars](https://img.shields.io/badge/Stars-Star-7c3aed?style=for-the-badge)](https://github.com/CR3-Architect) |
+| 🤝 Open to Work | [![Open](https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge)](mailto:atiqullah61111@gmail.com) |
+| 🏢 Brand | InstiNode |
 | 📍 Location | Earth 🌍 |
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:atiqullah61111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/CR3-Architect"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/CR3-Architect"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/CR3_Architect"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://instagram.com/CR3.Architect"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
@@ -156,13 +169,15 @@ class Atiqullah {
 
 ---
 
-## 🎯 GitHub Activity
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-views.vercel.app/api?username=CR3-Architect&label=Profile+Views&color=7c3aed&logo=github&labelColor=0d1117&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://github-readme-stats.vercel.app/api/waka/?username=CR3-Architect&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="WakaTime" onerror="this.style.display='none'"/>
+<a href="mailto:atiqullah61111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/CR3-Architect"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/CR3-Architect"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/CR3_Architect"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://instagram.com/CR3.Architect"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
