@@ -82,17 +82,6 @@ I focus on clean architecture, type-safe code, and tooling that makes other deve
 
 ---
 
-## Contact
-
-| Platform | Link |
-|---|---|
-| ✉️ **Email** | [atiqullah61111@gmail.com](mailto:atiqullah61111@gmail.com) |
-| 💬 **Telegram** | [@Arch_CR3](https://t.me/Arch_CR3) |
-| 🐙 **GitHub** | [@CR3-Architect](https://github.com/CR3-Architect) |
-| 📂 **Repositories** | [github.com/CR3-Architect](https://github.com/CR3-Architect?tab=repositories) |
-
----
-
 <div align="center">
 <sub>Built by Atiqullah · © 2026</sub>
 </div>
