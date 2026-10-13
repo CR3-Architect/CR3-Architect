@@ -67,6 +67,8 @@ I focus on clean architecture, type-safe code, and tooling that makes other deve
 ![Web Security](https://img.shields.io/badge/Web-Security-DC143C?style=flat-square)
 ![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-DC143C?style=flat-square)
 ![Security Tooling](https://img.shields.io/badge/Security-Tooling-DC143C?style=flat-square)
+![Burp Suite Pro](https://img.shields.io/badge/Burp%20Suite-Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Logger++](https://img.shields.io/badge/Logger%2B%2B-6C5B7B?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-ZAP-2C2D72?style=flat-square)
 
 <br>
