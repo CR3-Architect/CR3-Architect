@@ -1,45 +1,111 @@
-# Hey, I'm Atiqullah 👋
+<div align="center">
 
-Full-stack software developer. I build multi-platform applications, developer tooling, and automation systems — Flutter, Dart, Python.
+# Atiqullah
 
-I ship real products. When I hit a problem and the right tool doesn't exist, I build it — then ship it publicly.
+**Full-Stack Software Developer** · Flutter · Dart · Python
+
+*Building multi-platform applications, developer tooling, and automation systems.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-CR3--Architect-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/CR3-Architect)
+[![Email](https://img.shields.io/badge/Email-atiqullah61111%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:atiqullah61111@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-22c55e?style=flat-square)](mailto:atiqullah61111@gmail.com)
+
+</div>
 
 ---
 
-**[github-repo-init](https://github.com/CR3-Architect/github-repo-init)** — One command to create, init, commit & push any project to GitHub. No `gh` CLI. No dependencies. Just Python.
+## About
 
+I build software that ships. My work spans multi-platform Flutter applications, Python developer tools, and automation systems used in real production environments.
+
+I focus on clean architecture, type-safe code, and tooling that makes other developers faster. When a tool I need doesn't exist, I build it and release it open source.
+
+---
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [github-repo-init](https://github.com/CR3-Architect/github-repo-init)
+`Python` · `MIT`
+
+One command to create, init, commit and push any project to GitHub — no CLI install, no dependencies.
+
+**Use it:**
 ```bash
 python github-repo-init.py
 ```
 
-**[CalcPro](https://github.com/CR3-Architect/CalcPro)** — Professional calculator app built with Flutter. Multi-platform: Android, iOS, Web, Desktop.
+</td>
+<td width="50%" valign="top">
 
+### [CalcPro](https://github.com/CR3-Architect/CalcPro)
+`Flutter` · `Dart`
+
+Cross-platform calculator application with clean Material UI and robust expression evaluation — Android, iOS, Web, Desktop.
+
+**Run it:**
 ```bash
-flutter pub get
-flutter run
+flutter pub get && flutter run
 ```
 
-**[OnlineUpdates](https://github.com/CR3-Architect/OnlineUpdates)** — Over-the-air update distribution infrastructure. Keep apps and services current without redeploys.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OnlineUpdates](https://github.com/CR3-Architect/OnlineUpdates)
+`Infrastructure`
+
+Over-the-air update distribution system — deliver updates to apps and services without redeploys.
+
+</td>
+<td width="50%" valign="top">
+
+### [All Repositories](https://github.com/CR3-Architect?tab=repositories)
+`Open Source`
+
+Explore the full collection of public projects, experiments and tools.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I work with
+## Skills
 
-**Languages** — Dart · Python · C++ · JavaScript · SQL
-**Frameworks** — Flutter · Riverpod · Serverpod
-**Tools** — Git · GitHub · Docker · PostgreSQL · CI/CD
-**Focus** — Multi-platform apps · Developer tooling · Automation · Open source
-
----
-
-## What I'm building
-
-Currently working on developer tools and multi-platform systems. Shipping in public — watch the repos, not the roadmap.
+| Category | Technologies |
+|---|---|
+| **Languages** | Dart · Python · C++ · JavaScript · SQL |
+| **Frameworks** | Flutter · Riverpod · GoRouter · Serverpod |
+| **Backend & Data** | PostgreSQL · REST APIs · Docker |
+| **Tools** | Git · GitHub · GitHub Actions · CI/CD |
+| **Principles** | Clean Architecture · Multi-Tenancy · TDD · SOLID |
 
 ---
 
-## Find me
+## GitHub
 
-- **GitHub** — [CR3-Architect](https://github.com/CR3-Architect)
-- **Email** — [atiqullah61111@gmail.com](mailto:atiqullah61111@gmail.com)
-- **All repos** — [github.com/CR3-Architect?tab=repositories](https://github.com/CR3-Architect?tab=repositories)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CR3-Architect&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR3-Architect&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
+</div>
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| **Email** | [atiqullah61111@gmail.com](mailto:atiqullah61111@gmail.com) |
+| **GitHub** | [@CR3-Architect](https://github.com/CR3-Architect) |
+| **Repositories** | [github.com/CR3-Architect?tab=repositories](https://github.com/CR3-Architect?tab=repositories) |
+
+---
+
+<div align="center">
+<sub>Built by Atiqullah · © 2026</sub>
+</div>
