@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-CR3--Architect-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/CR3-Architect)
 [![Email](https://img.shields.io/badge/Email-atiqullah61111%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:atiqullah61111@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40Arch__CR3-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Arch_CR3)
+[![Telegram](https://img.shields.io/badge/Telegram-%40SoftwareDevBot__-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Arch_CR3)
 
 </div>
 
