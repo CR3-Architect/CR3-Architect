@@ -6,13 +6,10 @@
 
 </div>
 
----
-
 ## ⚡ About
 
 I build multi-platform applications, developer tooling, and security tools, from Flutter apps to web vulnerability scanners. I focus on clean architecture and type-safe code, and release the tools I build as open source.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -22,11 +19,12 @@ I build multi-platform applications, developer tooling, and security tools, from
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,git,githubactions,linux,vscode&perline=10" alt="Databases and tools" /> 
 </div>
 
----
+
 
 ## 💼 Work & Environment
 
 <div align="center">
+
 
 ### **Resecurity Internship & Research**
 
