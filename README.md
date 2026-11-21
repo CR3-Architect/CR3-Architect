@@ -1,58 +1,49 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Atiqullah — Software Engineer and Security Researcher" width="100%" /> 
-  <br/><br/>
+  <h1>CR3-Architect</h1>
+  <p><strong>Atiqullah</strong> — Software Engineer & Security Researcher</p>
 
   [![GitHub](https://img.shields.io/badge/GitHub-CR3--Architect-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CR3-Architect)
   [![Email](https://img.shields.io/badge/Email-atiqullah61111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiqullah61111@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-CR3%20Architect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arch_CR3)
+  [![Telegram](https://img.shields.io/badge/Telegram-%40Arch__CR3-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arch_CR3)
 </div>
-
----
-
-## ⚡ About
-
-I build multi-platform applications, developer tooling, and security tools, from Flutter apps to web vulnerability scanners. I focus on clean architecture and type-safe code, and release the tools I build as open source.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,py,ts,js,cpp,react,nextjs,nodejs,tailwind&perline=10" alt="Languages and frameworks" /> 
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,git,githubactions,linux,vscode&perline=10" alt="Databases and tools" /> 
-</div>
-
----
-
-## 💼 Work & Environment
-
-<div align="center">
-
-### **Resecurity Internship & Research**
 
 <br/>
 
-### **Operating Systems**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,kali,zorin" alt="Operating Systems" />
-</p>
+Software Engineer and Security Researcher focused on **cross-platform application architecture**, **developer tooling**, and **offensive security automation**. Currently contributing to threat intelligence and security research at **Resecurity**, while building and maintaining open-source tooling.
+
+- **Systems & Security:** Vulnerability scanning, packet/network analysis, and custom CLI automation in Python and C++.
+- **Application Engineering:** Type-safe, clean-architecture mobile and web systems built with Flutter, TypeScript, and Next.js.
+- **Infrastructure & Lab Environments:** Containerized testing workflows and multi-OS security labs across Linux (Kali, Debian, Ubuntu, Zorin) and Windows.
+
+---
+
+### Core Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` · `C++` · `TypeScript` · `JavaScript` · `Dart` · `Bash` |
+| **Frameworks** | `Flutter` · `React` · `Next.js` · `Node.js` · `Tailwind CSS` |
+| **Data & Infrastructure** | `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Docker` · `Nginx` · `GitHub Actions` |
+| **Environments & Tooling** | `Linux (Kali / Debian / Ubuntu / Zorin)` · `Windows` · `Git` · `Neovim / Vim` · `VS Code` |
 
 <br/>
 
-### **Security Lab Environments & Tooling**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,bash,vscode,vim,terminal" alt="Security Lab Tools" />
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,dart,flutter,react,nextjs,nodejs,postgres,redis,docker,linux,kali,git,githubactions&perline=15" alt="Core Engineering Stack" />
 </div>
 
 ---
 
-## 📫 Contact
+### Selected Open-Source Work
+
+> *Replace the placeholders below with your top 2–3 pinned repositories to give visitors immediate proof of work.*
+
+- **[Project Name](https://github.com/CR3-Architect)** — *Security / CLI Tool* · High-speed web vulnerability scanner or recon utility built with Python/C++.
+- **[Project Name](https://github.com/CR3-Architect)** — *Cross-Platform App* · Clean-architecture Flutter application engineered with strict state management and modular layers.
+- **[Project Name](https://github.com/CR3-Architect)** — *Developer Tooling* · Automated workflow or containerized lab utility built for security testing.
+
+---
 
 <div align="center">
-  [Email](mailto:atiqullah61111@gmail.com) · [Telegram](https://t.me/Arch_CR3) · [GitHub](https://github.com/CR3-Architect)
-  <br/><br/>
-  <sub>© 2026 Atiqullah</sub>
+  <sub>Open to security research collaborations, open-source contributions, and software engineering roles.</sub>
 </div>
